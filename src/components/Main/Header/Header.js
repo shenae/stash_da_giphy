@@ -39,6 +39,7 @@ const Header = (props) => {
                             <h1>
                                 🌈 Your Favorite Gifs 🦄
                             </h1>
+                            <h3>Click once on any Gif to remove it from your list of favorites.</h3>
                         </div>
                         } 
                     />

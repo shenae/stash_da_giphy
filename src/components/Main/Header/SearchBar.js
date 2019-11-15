@@ -19,6 +19,7 @@ const SearchBar = (props) => {
                     SEARCH
                 </button>
             </div>
+            <h3>Click once on any Gif to add it to your list of favorites.</h3>
         </div>
     )
 }
