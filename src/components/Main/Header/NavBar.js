@@ -8,13 +8,13 @@ const NavBar = () => {
             <div className="center">
                 <NavLink exact to="/" activeClassName="current">
                     <div className="icon">
-                        <h1>Search 🔍</h1>
+                        <p className="nav-title">Search 🔍 </p>
                     </div>
                 </NavLink>
 
                 <NavLink to="/favorites" activeClassName="current">
                     <div className="icon">
-                        <h1>Faves 💜</h1>
+                        <p className="nav-title">Faves 💜</p>
                     </div>
                 </NavLink>
             </div>
